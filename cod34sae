@@ -5,10 +5,6 @@
               }
             </style><style data-hide-onetrust="true">
               #onetrust-banner-sdk {
-
-
-                bottom: -1000px!important;
-              }
             </style><script data-nscript="beforeInteractive" crossorigin="anonymous">
             (function() {
               if (false) return;
