@@ -533,6 +533,7 @@ data-styled.g530[id="sc-d577b7d4-5"]{content:"iGPuxJ,"}/*!sc*/
 .iWilDa .seo-text-translations p,.iWilDa .seo-text-translations li{font-size:12px;line-height:18px;color:#58667e;padding-bottom:15px;}/*!sc*/
 data-styled.g540[id="sc-6dd55ad2-0"]{content:"iWilDa,"}/*!sc*/
 .cIWBoO{white-space:nowrap;}/*!sc*/
+
 .cIWBoO span[class^='icon']{margin-right:4px;}/*!sc*/
 data-styled.g541[id="sc-c42dad90-0"]{content:"cIWBoO,"}/*!sc*/
 .cTJvnf{font-size:var(--c-font-size-100);}/*!sc*/
