@@ -64,8 +64,7 @@
 .jpqzzO{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;}/*!sc*/
 .ljQrMi{-webkit-flex:0 0 auto;-ms-flex:0 0 auto;flex:0 0 auto;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;text-align:center;}/*!sc*/
 .ljQrMi [data-role=banner-image]{width:100%;}/*!sc*/
-@media (min-width:1024px){.ljQrMi{min-height:350px;}}/*!sc*/
-@media (max-width:1023.98px){.ljQrMi{max-width:400px;}}/*!sc*/
+
 .cGvUSD{width:100%;max-width:unset;margin:0 auto;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-flow:row wrap;-ms-flex-flow:row wrap;flex-flow:row wrap;padding:0px var(--c-space-300);}/*!sc*/
 @media (min-width:1024px){.cGvUSD{padding:0px var(--c-space-300);}}/*!sc*/
 @media (max-width:767.98px){.cGvUSD{padding:var(--c-space-150) var(--c-space-200);}}/*!sc*/
